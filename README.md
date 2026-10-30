@@ -74,6 +74,8 @@
 - Go (Golang) — Learning efficient backend development and concurrent programming.
 - PyTorch — Exploring deep learning and machine learning model development.
 - Python — Strengthening programming skills for AI and machine learning.
+- C — Embedded Systems & Robotics
+- C++ — Robotics Programming & Object-Oriented Programming
 
 ---
 
