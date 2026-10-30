@@ -39,7 +39,7 @@
 
 **Programming Languages**
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,php&perline=8" alt="programming languages" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,php,golang&perline=8" alt="programming languages" />
 <!-- Ganti dengan bahasa pemrograman yang Anda kuasai -->
 
 **Frontend Development**
